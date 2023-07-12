@@ -8,4 +8,25 @@ h1,
     color: rgb(0, 0, 0);
   }
 
-  .
+  li a {
+    height: 7px;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #5f5d5d;
+    color: rgb(169, 255, 169);
+  }
+
+  .box-model{
+    border: 1px solid red;
+    box-sizing: border-box;
+  }
+  h4,
+  .center {
+    text-align: center;
+  }
