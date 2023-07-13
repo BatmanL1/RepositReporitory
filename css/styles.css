@@ -3,6 +3,7 @@ h1,
   text-align: center;
 }
 
+
 .center {
     text-align: center;
     color: rgb(0, 0, 0);
@@ -30,3 +31,9 @@ h1,
   .center {
     text-align: center;
   }
+
+  .span-p span{
+    font-weight: bold;
+    color: rgb(255, 251, 127);
+  }
+
