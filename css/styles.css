@@ -1,3 +1,10 @@
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --primary:#D1F5BE ;
+  --secondary:#9CDE9F;
+  --accent:#9DB17C;
+}
+
 h1,
 .center {
   text-align: center;
@@ -37,3 +44,14 @@ h1,
     color: rgb(255, 251, 127);
   }
 
+  .custom-bg{
+    background-color: var(--primary);
+  }
+  
+  .custom-t{
+    color: var(--accent);
+  }
+  
+  .custom-p{
+    color: var(--secondary);
+  }
