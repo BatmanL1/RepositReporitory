@@ -55,3 +55,16 @@ h1,
   .custom-p{
     color: var(--secondary);
   }
+
+  .container {
+    display: grid;
+    text-align: center;
+  }
+
+  .container p {
+    background-color: lightgreen;
+    border: 2px solid green;
+    margin: 0;
+    width: 100;
+    height: 100;
+  }
