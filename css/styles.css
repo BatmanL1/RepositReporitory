@@ -130,3 +130,8 @@ h1,
 .semantic-footer p {
   display: inline;
 }
+
+.p12 {
+  text-align: center;
+  color: aliceblue;
+}
